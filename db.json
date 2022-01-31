@@ -36,7 +36,7 @@
         "phone": "993448483"
       }
     }
-  ], 
+  ],
   "comments": [
     {
       "id": 1,
@@ -53,5 +53,5 @@
       "body": "some comment",
       "postId": 3
     }
-  ],
+  ]
 }
