@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit blandit varius cras eros, fames facilisi netus euismod tempus litora mattis ridiculus taciti magna.",
+      "isFavorite": false,
+      "isOpen": false,
+      "description": "Curae conubia curabitur pulvinar nisl molestie eget ligula vel nullam sociis, aliquet proin congue penatibus justo varius integer venenatis netus nostra parturient, torquent sed interdum natoque taciti sollicitudin scelerisque faucibus hac.",
+      "user": {
+        "name": "Ana Paula",
+        "email": "anapaulavermesolano9@gmail.com",
+        "phone": "993448483"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit blandit varius cras eros, fames facilisi netus euismod tempus litora mattis ridiculus taciti magna.",
+      "isFavorite": false,
+      "isOpen": false,
+      "description": "Curae conubia curabitur pulvinar nisl molestie eget ligula vel nullam sociis, aliquet proin congue penatibus justo varius integer venenatis netus nostra parturient, torquent sed interdum natoque taciti sollicitudin scelerisque faucibus hac.",
+      "user": {
+        "name": "Ana Paula",
+        "email": "anapaulavermesolano9@gmail.com",
+        "phone": "993448483"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit blandit varius cras eros, fames facilisi netus euismod tempus litora mattis ridiculus taciti magna.",
+      "isFavorite": false,
+      "isOpen": false,
+      "description": "Curae conubia curabitur pulvinar nisl molestie eget ligula vel nullam sociis, aliquet proin congue penatibus justo varius integer venenatis netus nostra parturient, torquent sed interdum natoque taciti sollicitudin scelerisque faucibus hac.",
+      "user": {
+        "name": "Ana Paula",
+        "email": "anapaulavermesolano9@gmail.com",
+        "phone": "993448483"
+      }
+    }
+  ], 
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 3
+    }
+  ],
+}
