@@ -53,5 +53,7 @@
          "body":"some comment",
          "postId":3
       }
-   ]
+   ],
+   "status":200,
+   "msg":"Hola"
 }
