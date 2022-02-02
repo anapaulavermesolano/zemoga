@@ -1,6 +1,4 @@
 {
-   "status":200,
-   "msg":"Hola",
    "posts":[
       {
          "id":1,
