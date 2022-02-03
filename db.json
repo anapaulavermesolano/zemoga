@@ -16,7 +16,7 @@
          "id":2,
          "title":"Lorem ipsum dolor sit amet consectetur adipiscing elit blandit varius cras eros, fames facilisi netus euismod tempus litora mattis ridiculus taciti magna.",
          "isFavorite":false,
-         "isOpen":false,
+         "isOpen":true,
          "description":"Curae conubia curabitur pulvinar nisl molestie eget ligula vel nullam sociis, aliquet proin congue penatibus justo varius integer venenatis netus nostra parturient, torquent sed interdum natoque taciti sollicitudin scelerisque faucibus hac.",
          "user":{
             "name":"Ana Paula",
